@@ -2,7 +2,7 @@
 ### Cymmetria Research has released a new honeypot for the Apache Struts exploit, see more info here: https://github.com/Cymmetria/StrutsHoneypot
 
 # Fork information
-I forked has a few lines added to support adding commands and logins to a MySQL database, which can be used with the included PHP frontend that shows statistics.
+I forked has a few lines added to support adding commands and logins to a MySQL database, which can be used with the included PHP front-end that shows statistics.
 
 # CymmetriaResearch
 
