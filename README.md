@@ -1,6 +1,9 @@
 ### Update:
 ### Cymmetria Research has released a new honeypot for the Apache Struts exploit, see more info here: https://github.com/Cymmetria/StrutsHoneypot
 
+# Fork information
+I forked has a few lines added to support adding commands and logins to a MySQL database, which can be used with the included PHP frontend that shows statistics.
+
 # CymmetriaResearch
 
 MTPot is a simple open source honeypot, released under the MIT license for the use of the community.
@@ -15,10 +18,11 @@ Install
 * Python 2.7
 * pip install telnetsrv
 * pip install gevent
+* pip install mysqlclient
 
 Usage
 -------
-usage: MTPot.py [-h] [-v] [-o OUTPUT] config
+usage: mtpotmysql.py [-h] [-v] [-o OUTPUT] config
 
 positional arguments:
   config                Path to a json config file, see README for all
