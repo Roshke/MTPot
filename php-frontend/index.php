@@ -115,8 +115,8 @@ var chart = AmCharts.makeChart( "chartdiv", {
 <br/>
 <div class="alert alert-info">
 <b>Info</b><br>
-This data is provided exclusively for research purposes.</br>
-You can also use it for black-lists against telnet bruters and IoT DDoS attacks to protect your network.</br>
+This data is provided exclusively for research purposes.<br>
+You can also use it for black-lists against telnet bruters and IoT DDoS attacks to protect your network.<br>
 All time is based on Central European Time.</div>
 
 <a class="btn btn-danger" href="./telnet_today.txt"><i class="icon-download icon-white"></i> Telnet attackers today</a>
